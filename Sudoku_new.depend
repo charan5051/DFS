@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1615233492 source:c:\users\mnaga\onedrive\desktop\sudoku_new\sudoku_new\csp.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	<ctime>
+	<random>
+	<algorithm>
+	"CSP.h"
+
+1615063237 c:\users\mnaga\onedrive\desktop\sudoku_new\sudoku_new\csp.h
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1615313442 source:c:\users\mnaga\onedrive\desktop\sudoku_new\sudoku_new\main.cpp
+	<iostream>
+	<stdio.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"VisualDisplay.h"
+
+1519235594 c:\users\mnaga\onedrive\desktop\sudoku_new\sudoku_new\visualdisplay.h
+	<stdio.h>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	"CSP.h"
+
+1615233863 source:c:\users\mnaga\onedrive\desktop\sudoku_new\sudoku_new\visualdisplay.cpp
+	"VisualDisplay.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+
+1638445378 source:c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\csp.cpp
+	<stdio.h>
+	<random>
+	<algorithm>
+	"CSP.h"
+
+1638445307 c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\csp.h
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1638494544 source:c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\main.cpp
+	<iostream>
+	<stdio.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"VisualDisplay.h"
+
+1638497871 c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\visualdisplay.h
+	<stdio.h>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	"Puzzle.h"
+
+1638504097 source:c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\visualdisplay.cpp
+	"VisualDisplay.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+
+1638502436 c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\puzzle.h
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1638504015 source:c:\users\mnaga\desktop\projects\prjcts\sudoku_prjct\sudoku_new_v-1\sudoku_v-1_working\puzzle.cpp
+	<iostream>
+	<stdio.h>
+	<random>
+	<algorithm>
+	"Puzzle.h"
+	<windows.h>
+
+1638494544 source:c:\users\mnaga\desktop\sudoku_solver_using_dfs\main.cpp
+	<iostream>
+	<stdio.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"VisualDisplay.h"
+
+1638497871 c:\users\mnaga\desktop\sudoku_solver_using_dfs\visualdisplay.h
+	<stdio.h>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	"Puzzle.h"
+
+1638502436 c:\users\mnaga\desktop\sudoku_solver_using_dfs\puzzle.h
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1638516006 source:c:\users\mnaga\desktop\sudoku_solver_using_dfs\puzzle.cpp
+	<iostream>
+	<stdio.h>
+	<random>
+	<algorithm>
+	"Puzzle.h"
+	<windows.h>
+
+1638504097 source:c:\users\mnaga\desktop\sudoku_solver_using_dfs\visualdisplay.cpp
+	"VisualDisplay.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+
+1638494544 source:c:\users\mnaga\desktop\dfs_algorithm_sudoku_puzzle\sudoku_solver_with_opencv\main.cpp
+	<iostream>
+	<stdio.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"VisualDisplay.h"
+
+1638497871 c:\users\mnaga\desktop\dfs_algorithm_sudoku_puzzle\sudoku_solver_with_opencv\visualdisplay.h
+	<stdio.h>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	"Puzzle.h"
+
+1638502436 c:\users\mnaga\desktop\dfs_algorithm_sudoku_puzzle\sudoku_solver_with_opencv\puzzle.h
+	<stack>
+	<vector>
+	<queue>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1638618623 source:c:\users\mnaga\desktop\dfs_algorithm_sudoku_puzzle\sudoku_solver_with_opencv\puzzle.cpp
+	<iostream>
+	<stdio.h>
+	<random>
+	<algorithm>
+	"Puzzle.h"
+	<windows.h>
+
+1638504097 source:c:\users\mnaga\desktop\dfs_algorithm_sudoku_puzzle\sudoku_solver_with_opencv\visualdisplay.cpp
+	"VisualDisplay.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+
